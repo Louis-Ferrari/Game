@@ -73,4 +73,5 @@ Content/Windows/
 
 # Ignore the /Content/Linux folder.
 Content/Linux/
-Content/Asian_Village/
+/sContent/Asian_Village/
+
